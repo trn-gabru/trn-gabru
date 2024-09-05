@@ -1,3 +1,4 @@
+![Home Screen](https://github.com/trn-gabru/trn-gabru/blob/main/coverpage%20001-01.jpg?raw=true)
 <h1 align="center">Hey there 👋, I'm Gaurav Nalawade</h1>
 <h3 align="center">A passionate Full-Stach Developer and Graphic Designer from India.</h3>
 
